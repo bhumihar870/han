@@ -32,4 +32,4 @@ async def dm_all(ctx, *, args=None):
     else:
         await ctx.channel.send("A message was not provided.")
 
-bot.run("NzQ3Njk5NDQ1MTY4MjEwMDAx.X0SrXw.mJlmtLvqUl8tXQzy9UjUAqBwFSI")
+bot.run("NjMzMzE5MTM5OTk3NjQ2ODY4.XaSOaQ.6MoLIrakFwcPPnIjSLD6fD_nuUM")
